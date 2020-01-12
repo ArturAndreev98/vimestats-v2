@@ -9,7 +9,7 @@ $ npm i github:vladciphersky/vimestats-v2
 ```
 В основной файл вставьте этот код:
 ```js
-const vs = require('vimestats-v2');
+const vs = require('vimestats');
 const vsconfig = {
     token: 'токен-бота',
     prefix: 'префикс-бота',

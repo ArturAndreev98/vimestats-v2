@@ -4,7 +4,7 @@
   "description": "Бот для сбора и отправки данных сервера VimeWorld MiniGames",
   "main": "index.js",
   "author": "cipherskyinc",
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "UNLICENSED",
   "repository": {
     "type": "git",
     "url": "https://github.com/vladciphersky/vimestats-v2.git"

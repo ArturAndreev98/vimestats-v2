@@ -1,10 +1,14 @@
 {
-  "name": "vimestats-v2",
-  "version": "1.0.0",
+  "name": "vimestats",
+  "version": "2.0.0",
   "description": "Бот для сбора и отправки данных сервера VimeWorld MiniGames",
   "main": "index.js",
   "author": "cipherskyinc",
   "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vladciphersky/vimestats-v2.git"
+  },
   "dependencies": {
     "discord.js": "^11.5.1",
     "moment": "^2.24.0",
